@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "tools-header",
   "version": "0.0.1",
   "main": "dist/index.js",
   "scripts": {
@@ -18,5 +18,6 @@
     "ts-jest": "^27.1.1",
     "tslib": "^2.3.1",
     "typescript": "^4.5.2"
-  }
+  },
+  "gitHead": "5dfd62362921750d7beace37dac2caec135bf15d"
 }
