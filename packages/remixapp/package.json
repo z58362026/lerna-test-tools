@@ -1,5 +1,5 @@
 {
-  "name": "tools-remixapp",
+  "name": "@tools/tools-remixapp",
   "private": false,
   "version": "0.0.3",
   "sideEffects": false,
