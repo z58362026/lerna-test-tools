@@ -1,5 +1,5 @@
 {
-  "name": "@tools/tools-remixapp",
+  "name": "tools-remixapp",
   "private": false,
   "version": "1.0.1",
   "sideEffects": false,
@@ -41,5 +41,6 @@
         ]
       }
     }
-  }
+  },
+  "gitHead": "b7ed5e2acca34d0d5bdc5281f41606109cf650f6"
 }
