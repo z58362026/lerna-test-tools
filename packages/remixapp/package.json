@@ -1,7 +1,7 @@
 {
   "name": "@tools/tools-remixapp",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
